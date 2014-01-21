@@ -3,10 +3,11 @@
 """
 Collect stats from the NSD
 
+Based on unbound collector.
+
 #### Dependencies
 
     * subprocess
-    * collections.defaultdict or kitchen
 
 """
 
